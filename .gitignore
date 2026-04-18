@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Captured Data & Logs
+captured_credentials.txt
+attack_logs.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
